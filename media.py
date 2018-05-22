@@ -3,7 +3,7 @@ import webbrowser
 # take the webbrowser to run this python file
 
 
-class Ajay():
+class Movie():
     # define a class and take an object self.
     def __init__(self, movie_name,
                  storyline_movie, movieposter_image, movietrailer_youtube):
