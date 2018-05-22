@@ -7,8 +7,8 @@ Jakkana = media.Movie("Jakkana", "action and comedy",
                       "https://bit.ly/2IV9sDd",
                       "https://www.youtube.com/embed/RaO7Fyc1RMQ")
 Ppremalomari = media.Movie("Paddanandipremalomari", "love",
-                            "https://bit.ly/2IWTbOa",
-                            "https://www.youtube.com / embed/16OL_60bnKc")
+                           "https://bit.ly/2IWTbOa",
+                           "https://www.youtube.com / embed/16OL_60bnKc")
 Titanic = media.Movie("Titanic", "love",
                       "https://bit.ly/2wYtAzG",
                       "https://www.youtube.com/embed/2e-eXJ6HgkQ")
@@ -27,5 +27,3 @@ movies = [Jakkana, Ppremalomari,
           Titanic, Shaolinsoccer, Tintin, Ghajini]
 fresh_tomatoes.open_movies_page(movies)
 # in fresh_tomatoes we open the open_movie_page with above movies.
-
-         
